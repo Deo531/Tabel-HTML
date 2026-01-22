@@ -1,0 +1,13 @@
+Table, th, td,tr {
+    border: dashed 1px black;
+    border-collapse: collapse;
+    text-align: center;
+}
+th, td {
+    width: 140px;
+    height: 80px;
+}
+
+.murid {
+    margin-top: 20px;
+}
